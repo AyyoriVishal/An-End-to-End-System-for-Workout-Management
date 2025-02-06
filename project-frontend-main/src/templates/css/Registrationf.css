@@ -1,0 +1,108 @@
+.cont-f{
+    width: 100%;
+    height: 105vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(45deg , #0bd2de , #0083f9);
+}
+.cont-f .box{
+    width: 400px;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+    margin-top: 5px;
+}
+.box h3{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 10px;
+    margin-bottom: 50px;
+    position: relative;
+}
+.box h3 span{
+position: absolute;
+width: 60px;
+height: 6px;
+background: linear-gradient(45deg , #0bd2de , #0083f9);
+bottom: 0px;
+border-radius: 200px;
+}
+
+.box form .ip_bx{
+text-align: center;
+border:2px solid #333;
+border-radius: 5px;
+margin-bottom: 25px;
+position: relative;
+
+}
+
+.box form .ip_bx input{
+    width: 95%;
+    font-size: 20px;
+    padding: 10px 0px;
+    border: none;
+    outline: none;
+    color: black;
+    
+}
+
+.box form .ip_bx label{
+    position: absolute;
+    left: 8px;
+    top: -12px;
+    font-size: 20px;
+    background-color: #fff;
+    font-weight: bold;
+    padding: 0px 10px;
+    pointer-events: none;
+    transition: 0.3s;
+    color: #333;
+}
+
+/* .box form .ip_bx input:focus + label,
+.box form .ip_bx input:valid + label{
+    top: -16px;
+    color: rgb(162, 39, 219);
+    transition: all 0.4s cubic-bezier(0.60 , 4.00 , 0.255 , 1.55);
+} */
+
+.box form button{
+    width: 100%;
+    font-size: 20px;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 200px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #fff;
+    background: linear-gradient(45deg , #0bd2de , #0083f9);
+    box-shadow: 0px 10px 30px -10px rgb(101, 173, 245);
+    transition: 0.3s;
+}
+
+.box form button:hover{
+    box-shadow: 0px 5px 10px -5px rgb(38, 135, 204);
+}
+.box form button:active{
+    transform: scale3d(0.9 , 0.9 , 0.9);
+}
+.box p{
+    margin-top: 5px;
+}
+.box p .loginlink{
+    text-align: end;
+    margin: 25px 0px;
+}
+.box  p .loginlink{
+    font-size: 22px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #0083f9;
+}
+.box  p .loginlink:hover{
+    text-decoration: underline;
+}

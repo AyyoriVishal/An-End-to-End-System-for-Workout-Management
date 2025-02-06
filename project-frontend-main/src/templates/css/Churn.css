@@ -1,0 +1,15 @@
+.churn-cont{
+    width: 100%;
+    height: auto;
+    /* background: linear-gradient(45deg, #0bd2de, #0083f9); */
+    padding: 50px;
+}
+
+#churn-det{
+    background:linear-gradient(45deg, #0bd2de, #0083f9);
+    display:inline-block;
+    width: auto;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 25px;
+}

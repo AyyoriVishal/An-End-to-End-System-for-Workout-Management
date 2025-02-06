@@ -1,0 +1,22 @@
+.nav-tabs {
+  display: flex;
+  justify-content: flex-end;
+  padding: 4px;
+  background: #1C2833;
+}
+
+.nav-tabs .nav-link {  
+  margin-right: 20px; 
+  margin-left: 20px; 
+  line-height: 50px;
+  font-size: 40px;
+  font-size: 20px;
+}
+
+.nav-link:last-child {
+  margin-right: 0;
+}
+
+#links{
+  text-decoration: none;
+}

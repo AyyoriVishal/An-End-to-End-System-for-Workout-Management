@@ -1,0 +1,83 @@
+.conticon{
+    background: linear-gradient(45deg , #0bd2de , #0083f9);
+    width:100%;
+    height: auto;
+    padding-bottom: 50px;
+    justify-content: center;
+}
+
+#prop{
+    margin-top: 40px;
+    border: 1px solid grey;
+    width: 80%;
+    height: 100%;
+    left:0;
+    padding-left: 10px;
+    box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+}
+#edit{
+color: #0083f9;
+font-size: 25px;
+right: 0;
+}
+
+.social-icons{
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid rgba(222, 222, 222, 0.599);
+    border-radius: 10px;
+    box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+    font-size: 20px;
+    
+    
+}
+
+.icon{
+  display: flex;
+  padding: 15px;
+			align-items: center;
+			flex-direction: column;
+
+a {
+  color: #fff;
+  width: 60px;
+  height: 60px;
+  font-size: 28px;
+  line-height: 60px;
+  text-align: center;
+  border-radius: 30px;
+  background: linear-gradient(45deg , #0bd2de , #0083f9);
+  box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+}
+
+h4 {
+				color: #080911;
+				font-size: 1em;
+				margin-top: 1.3em;
+				margin-bottom: .2em;
+			}
+			
+			p {
+				color: #666B7D;
+				font-size: 12px;		
+			}
+
+
+}
+
+
+
+
+
+#prof{
+    border: 1px solid transparent;
+    padding-left: 20px;
+    margin-top: 30px;
+   
+}
+
+#title{
+    display: flex;
+    margin-top: 30px;
+}

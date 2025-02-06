@@ -1,0 +1,83 @@
+.contadd {
+  background: linear-gradient(45deg, #0bd2de, #0083f9);
+  border: none;
+  height:auto;
+  padding: 50px;
+}
+
+#add-prd {
+  border-radius: 5px;
+  margin: auto;
+  width: 30%;
+  margin-top: 20px;
+  color: whitesmoke;
+  display:block;
+  font-size: large;
+  background: linear-gradient(45deg, #0bd2de, #0083f9);
+  border: 1px solid rgba(255, 255, 255, 0.188);
+  box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+}
+
+.btns {
+  display: flex;
+  width: 15%;
+  margin: auto;
+  margin-top: 20px;
+  font-weight: 700;
+  font-size: larger;
+  justify-content: space-around;
+  color: whitesmoke;
+}
+
+.btns button {
+  height: 30px;
+  width: 60px;
+  color: #0083f9;
+  background-color: #cfd9e2b6;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 1px;
+}
+
+#title {
+  margin: auto;
+}
+
+form {
+  margin: 5px;
+  justify-content: center;
+}
+
+.prodent {
+  padding: 10px;
+  width: 100%;
+}
+
+#name,
+#price,
+#description,
+#stock,
+#weight {
+  height: 20px;
+  margin-bottom: 5px;
+  font-size: 25px;
+  width: 100%;
+  margin: 3px;
+}
+
+.rad {
+  display: flex;
+}
+.goal,
+.cat {
+  padding: 20px;
+}
+.cat {
+  padding-left: 10px;
+}
+
+#file{
+  border: 1px solid #0083f9;
+  width:90%;
+  margin: auto;
+}

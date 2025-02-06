@@ -1,0 +1,79 @@
+
+.edit-cont{
+    border:1px solid transparent;
+    background: linear-gradient(45deg , #0bd2de , #0083f9);
+}
+.newcont{
+    
+    background: whitesmoke;
+    width:95%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+    
+}
+.h-cont{
+    border: 2px solid #4291d6;
+    display: flex;
+    padding: 20px;
+    border-radius: 20px;
+}
+.lcont{
+    
+    border-radius:20px ;
+}
+.lcont img{
+    height: 90%;
+    width: 90%;
+    border-radius:20px ;
+    box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+    position: relative;
+}
+.rcont{
+    border-radius: 20px;
+    background: #6cc9d06a;
+    width: 50%;
+    padding-left: 40px;
+}
+.rcont h1{
+    color: #4291d6;
+    font-size: 50px;
+    
+}
+.rcont h3{
+    margin-top: 20px;
+    color: #6895bf;
+    font-size: 20px;
+    text-align: justify;
+    padding-right: 40px;
+}
+.rcont h2{
+    color: #3d4347;
+    font-size: 50px;
+    
+}
+.rcont p{
+    color: #0083f9;
+    width: auto;
+   
+}
+.rcont p #star{
+    color: gold;
+}
+#editbtn{
+    background: linear-gradient(45deg , #0bd2de , #0083f9);
+    display: inline;
+    margin-top: 20px;
+    border-radius: 3px;
+    width: 20%;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+}
+
+#editbtn:hover{
+    transform: scale(1.1);
+}

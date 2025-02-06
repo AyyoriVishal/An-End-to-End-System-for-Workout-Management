@@ -1,0 +1,38 @@
+#contact-cont{
+    background: #1C2833;
+    color: #0bd2de;
+    height: 100vh;
+    border:1px solid #1C2833;
+}
+
+#formblock{
+    margin: auto;
+    margin-top: 100px;
+    background:linear-gradient(45deg , #0bd2de , #0083f9);
+    width: 35%;
+    height: 350px;
+    border-radius:20px;
+    padding: 20px;
+}
+
+
+#frm{
+    padding: 10px;
+    background: rgba(245, 243, 243, 0.308);
+    color:#1C2833;
+    height: 310px;
+    border-radius: 20px;
+    
+}
+
+#sub{
+    background:rgba(245, 245, 245, 0.726);
+    margin: auto;
+    margin-top: 10px;
+    display: inline-block;
+    width: auto;
+    color: #175a99;
+    padding: 7px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 30px -10px rgb(75, 85, 95);
+}

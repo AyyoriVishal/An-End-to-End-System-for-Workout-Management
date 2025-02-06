@@ -1,0 +1,27 @@
+.ca{
+    padding: 15px;
+    background:linear-gradient(45deg, #0bd2de, #0083f9);
+
+}
+.abandon{
+    /* border: 3px solid blueviolet; */
+    background-color: rgba(245, 245, 245, 0.221);
+    border-radius: 5px;
+}
+
+.abandon #ca-btn{
+    display: inline-block;
+    width: 30%;
+    border: 1px solid white;
+    margin-left: 20px;
+    font-size: x-large;
+    border-radius: 4px;
+}
+
+#ca-btn:hover{
+    transform: scale(1.1);
+}
+
+#au-tbl{
+    margin-top: 50px;
+}

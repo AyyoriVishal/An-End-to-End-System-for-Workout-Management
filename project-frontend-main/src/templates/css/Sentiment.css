@@ -1,0 +1,35 @@
+.sentiment-cont{
+    
+    background: linear-gradient(45deg, #0bd2de, #0083f9);
+  height: 100vh;
+  width: 100%;
+  padding: 20px;
+  margin: 0;
+}
+
+.senti{
+    
+    width: 30%;
+    margin: auto;
+}
+
+
+.senti #get-sent{
+    margin: auto;
+    margin-top: 10px;
+    color: #0083f9;
+    background-color: rgba(254, 254, 254, 0.925);
+    width: auto;
+    height: auto;
+    font-size: xx-large;
+    padding: 10px;
+    border-radius: 40px;
+    box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+}
+.senti #get-sent:hover{
+    transform: scale(1.1);
+}
+
+.tbl{
+    margin-top: 40px;
+}

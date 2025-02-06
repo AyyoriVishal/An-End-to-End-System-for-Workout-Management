@@ -1,0 +1,62 @@
+.ocont {
+  border: 1px solid lightblue;
+  background-color: lightblue;
+  padding: 50px;
+  height: auto;
+  width: 100%;
+}
+
+#card-body {
+  border-radius: 5px;
+}
+.prods {
+  padding: 5px;
+  width: 80%;
+  margin: auto;
+}
+
+
+#card-body {
+  border-radius: 5px;
+}
+.prods {
+  padding: 5px;
+  width: 80%;
+  margin: auto;
+}
+
+.mainod{
+  
+  width:40%;
+  margin: auto;
+  margin-top: 20px;
+  
+}
+#verify{
+  display: flex;
+  margin: auto;
+  margin-top: 20px;
+  justify-content: space-around;
+  margin-left:60px;
+}
+#otpip{
+  width: 50%;
+  height: 40px;
+  font-size: 25px;
+  margin-left: 10px;
+}
+
+#otp1{
+  background: #2389e2;
+  width: 30%;
+  margin: auto;
+  border-radius: 10px;
+  
+}
+#otp2{
+  background: #5890c2;
+  width: 20%;
+  margin: auto;
+  margin-left: 10px;
+  border-radius: 10px;
+}

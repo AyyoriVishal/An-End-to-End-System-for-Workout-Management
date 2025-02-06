@@ -1,0 +1,41 @@
+.recommend-cont{
+    background: #1C2833;
+    color: #0bd2de;
+    text-align: center;
+}
+
+#cards{
+    border-radius: 10px;
+}
+
+#cards img{
+    border-radius:10px 10px 0px 0px;
+}
+
+#card-b{
+    text-align: left;
+}
+#card-b h5{
+    
+    height: 50px;
+}
+
+#card-b h6{
+    
+    color: #576878;
+    height: 70px;
+}
+#card-b p #rup{
+    color: #1C2833;
+    font-size: large;
+}
+
+#card-b p #star{
+    color: rgb(226, 199, 27);
+    font-size: x-large;
+}
+
+#card-b p{
+color: #3485f8;
+
+}

@@ -1,0 +1,29 @@
+#gd {
+  background: linear-gradient(45deg, #0bd2de, #0083f9);
+  height: 100vh;
+  width: auto;
+  padding: 20px;
+  margin: 0;
+}
+.bttn {
+  background-color: #0083f9;
+  color: #fff;
+  border-radius: 5px;
+  border: 1px solid rgba(49, 42, 42, 0.241);
+  height: 30px;
+  width: 60px;
+}
+
+#bx {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+}
+
+#card-body {
+  width: 30%;
+  margin: auto;
+  margin-top: 30px;
+  box-shadow: 0px 9px 30px -15px rgb (0 0 0);
+}

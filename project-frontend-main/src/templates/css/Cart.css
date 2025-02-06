@@ -1,0 +1,31 @@
+.cartcont {
+  background: linear-gradient(45deg, #0bd2de, #0083f9);
+  height: auto;
+  width: auto;
+  padding: 20px;
+  margin: 0;
+}
+
+.cartp {
+  box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+}
+
+.buyall {
+  margin-top: 20px;
+  width: 15%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cartbtn {
+  background-color: whitesmoke;
+  color: #0083f9;
+  border-radius: 5px;
+  padding-left: 0;
+  box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+}
+.cartbtn:hover{
+  background: rgb(255, 255, 255);
+ color: #0083f9;
+  transform: scale(1.1);
+}

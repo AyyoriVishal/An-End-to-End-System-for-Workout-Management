@@ -1,0 +1,40 @@
+.shipcont{
+  width: auto;
+  padding: 20px;
+  margin: 0;
+}
+
+.title{
+  display: flex;
+}
+
+.fillform{
+  background: linear-gradient(45deg, #0bd2de, #0083f9);
+  width: 70%;
+  padding: 20px;
+  color: aliceblue;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+
+}
+
+#lbl {
+  color: whitesmoke;
+}
+
+#phoneNo,
+#address,
+#pincode,
+#state,
+#city,
+#country {
+  height: 20px;
+
+  font-size: 25px;
+  width: 100%;
+  background: white;
+  border-radius: 5px;
+  color: #0083f9;
+  border: none;
+}

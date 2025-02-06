@@ -1,0 +1,20 @@
+.voc {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(45deg, #0bd2de, #0083f9);
+  display: block;
+  padding: 20px;
+}
+
+.plcd-orders {
+  width: 95%;
+  margin: auto;
+  margin-bottom: 40px;
+  box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+}
+
+.deli-orders {
+  width: 95%;
+  box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+  margin: auto;
+}

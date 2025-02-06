@@ -1,0 +1,83 @@
+.conti{
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    background: linear-gradient(45deg , #0bd2de , #0083f9) ;
+}
+
+.all-orders{
+    margin-top: 10px;
+    width:99%;
+    box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+}
+
+.all-notifs{
+    margin-top: 15px;
+    width: 99%;
+    box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+}
+.udetail{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.botn{
+    margin: 10px;
+    width: 90%;
+    height: 50px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-size: large;
+    border: 1px solid rgba(255, 255, 255, 0.188);
+    box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+    background:linear-gradient(45deg , #0bd2de , #0083f9) ;
+}
+.info{
+    color: white;
+    font-family:'Courier New', Courier;
+    
+}
+
+.notif{
+    margin-top: 20px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 50%;
+    padding: 5px;
+    
+    
+}
+
+#notif-txt{
+    border: 1px solid white;
+    width: 60%;
+    border-radius: 5px;
+    box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+}
+
+#butn{
+    color: #0083f9;
+    width: 30%;
+    padding: 1px;
+    
+    right: 0;
+    font-size: 20px;
+    margin-left: 7px;
+    border-radius: 5px;
+    background: whitesmoke;
+    box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+}
+
+#rec-btns{
+    width: 50%;
+    font-size: 20px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: #0083f9;
+    background: whitesmoke;
+    box-shadow: 0px 9px 30px -15px rgb(0 0 0);
+}

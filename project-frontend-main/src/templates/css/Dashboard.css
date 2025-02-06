@@ -1,0 +1,43 @@
+.Box{
+    background:linear-gradient(45deg , #0bd2de , #0083f9);
+    width: 100%;
+    height:100vh;
+    justify-content:center;
+    display: flex;
+}
+
+.tab{
+    margin-top: 15px;
+    padding: 20px;
+    border-radius: 5px;
+    background:linear-gradient(45deg , #0bd2de , #0083f9);
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: monospace;
+    width: 100%;
+    position: relative;
+
+}
+.dash{
+    color: white;
+    font-size: 25px;
+    font-family: monospace;
+    padding: 10px;
+    width: 100%;
+   
+}
+
+#revnuser{
+    color: #0bd2de;
+    font-size: 40px;
+}
+
+#rdata{
+    color: whitesmoke;
+    font-size: xx-large;
+    height: 55px;
+}
